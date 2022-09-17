@@ -1,11 +1,19 @@
 {
   "name": "hello-node",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravani1510/wd-hello-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sravani1510/wd-hello-node/issues"
+  },
+  "homepage": "https://github.com/sravani1510/wd-hello-node#readme",
+  "description": ""
 }
